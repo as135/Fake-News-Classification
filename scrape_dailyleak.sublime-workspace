@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"create_sitemap"
+			],
+			[
+				"jso",
+				"json_dict"
+			],
+			[
+				"conver",
+				"convert_xml_sitemap"
+			],
+			[
+				"good",
+				"good_starts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Install Package Control"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/all_clean_urls.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/sites_tags.json",
+		"/C/Users/AR_Magnavox/Documents/code.py",
+		"/C/Users/AR_Magnavox/Downloads/analysis_pipeline_v4.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/scrape_dailyleak.py",
+		"/C/Users/AR_Magnavox/Documents/ICPC/second.cxx",
+		"/C/Users/AR_Magnavox/Documents/ICPC/first.cxx",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week09-rpn-2017-as135/src/main/java/edu/rice/tree/IMap.java",
+		"/C/TDM-GCC-32/README-gcc-tdm.txt",
+		"/C/Users/AR_Magnavox/Documents/firstPy3.py",
+		"/C/Users/AR_Magnavox/Documents/lab5.py",
+		"/C/Users/AR_Magnavox/Documents/problem1.py",
+		"/C/Users/AR_Magnavox/Documents/problem2.py",
+		"/C/Users/AR_Magnavox/Documents/ml4.py",
+		"/C/Users/AR_Magnavox/Documents/h4t1.py",
+		"/C/Users/AR_Magnavox/Documents/h4t2.py",
+		"/C/Users/AR_Magnavox/Documents/A6/task1.py",
+		"/C/Users/AR_Magnavox/Documents/A6/task2.py",
+		"/C/Users/AR_Magnavox/Documents/A6/task3.py",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week09-rpn-2017-as135/src/main/java/edu/rice/list/IList.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week09-rpn-2017-as135/src/test/java/edu/rice/week9lab/Week9LabTest.java",
+		"/C/Program Files (x86)/Microsoft Games/Age of Empires/READ ME.txt",
+		"/C/Users/AR_Magnavox/Documents/COMP 540/part1/linear_regressor.py",
+		"/C/Users/AR_Magnavox/Documents/COMP 540/sampler.py",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week09-rpn-2017-as135/src/main/java/edu/rice/tree/TreapMap.java",
+		"/C/Users/AR_Magnavox/Documents/ICPC/first.cpp",
+		"/U/factors-as135/writeup.txt",
+		"/U/factors-as135/factors.c",
+		"/C/Users/AR_Magnavox/Documents/COMP 540/part2/.ipynb_checkpoints/Untitled-checkpoint.ipynb",
+		"/C/Users/AR_Magnavox/Documents/COMP 540/part1/.ipynb_checkpoints/linear_reg_univariate-checkpoint.ipynb",
+		"/C/Users/AR_Magnavox/Documents/COMP 540/part1/ex1.ipynb",
+		"/C/Users/AR_Magnavox/Documents/COMP 540/part1/ex1_multi.ipynb",
+		"/D/INSTALL/VFW/README.TXT",
+		"/C/Users/AR_Magnavox/Desktop/GAME/CUSTOMQU.TXT",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/usatoday.py",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/SublimeTensorflow/Default (Windows).sublime-keymap",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/AR_Magnavox/Documents/HelloWorld.java",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/User/java.sublime-build",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/json/Parser.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/util/Option.java",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/usatoday_data/usatoday_1a88ea06-0627-4982-89e3-7b1c7c215ade.json",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/User/python2.sublime-build",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Installed Packages/Tensorflow.sublime-package",
+		"/C/Users/AR_Magnavox/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/politicus_usa.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/mideastbeast.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/breitbart_ex.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/buzzfeed.py",
+		"/C/Users/AR_Magnavox/Dropbox/arjoon_jsons/RTG Files/signalmedia_data/fake_news.py",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/tree/TreapMap.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/list/IList.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/list/List.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/list/KeyValue.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/sexpr/Parser.java",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/list/LazyList.java",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/run_all_scrapers",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/slda/kjn.html",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/slda/,,nn",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/slda/topic_models.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/slda/__init__.py",
+		"/C/Users/AR_Magnavox/Dropbox/arjoon_jsons/RTG Files/signalmedia_data/overlap_list.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/author_fix.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/cleaner.py",
+		"/C/Users/AR_Magnavox/Dropbox/arjoon_jsons/RTG Files/signalmedia_data/script.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/script_modified.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/politcus_usa.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/politicus_usa_data/politicus_usa_848a2496-c1c5-453f-a7a0-e5b93f42718d.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/politicus_usa_data/politicus_usa_528eddcd-a163-4858-bb15-c90a8daa6f06.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/occupydemocrats_data/occupydemocrats_e550e4a3-924d-4015-ac15-3aba6be068af.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/occupydemocrats.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/outline.txt",
+		"/D/RTG Files/Inventory",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/LiLAC-master/train_eg.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/setup.py",
+		"/C/Users/AR_Magnavox/Documents/quantlab2.xml",
+		"/C/Users/AR_Magnavox/Downloads/analysis_pipeline_v4 (1).py",
+		"/C/Users/AR_Magnavox/Documents/C Files/pickle.py",
+		"/C/Users/AR_Magnavox/Documents/C Files/test.py",
+		"/C/Users/AR_Magnavox/IdeaProjects/comp215-week06-parser-2017-as135/src/main/java/edu/rice/json/Scanner.java",
+		"/C/Users/AR_Magnavox/Documents/quantlab1.py",
+		"/C/Users/AR_Magnavox/Documents/quantlab2.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/url_labels/sites_tags.json",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/bayes_literature/Notes on Papers.txt",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/example_data/data_bugs.txt",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/url_labels/readme.txt",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/url_labels/all_clean_urls.json",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/collect_occupydemocrats.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/collect_politicus_usa.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/hao's scrapers/surrealscoop.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/hao's scrapers/nationalreport.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/hao's scrapers/dailyleak.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/collect_mideastbeast.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/collect_infowars.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/example_code/analysis_pipeline_v2.ipynb",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/example_code/.ipynb_checkpoints/analysis_pipeline_v2-checkpoint.ipynb",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/hao's scrapers/satirewire.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/out_mideastbeast",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/setup.cfg",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/web_scraping_scripts/collect_breitbart.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/slda-0.1.4/PKG-INFO",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/sample_data/data_key.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/sample_data/article_119.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/mideastbeast_data/mideastbeast_d8a72862-e51a-40bb-94d8-0765c895ead0.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/usatoday_data/usatoday_37d194ff-d75c-4109-a06e-2389722bc992.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/usatoday_data/usatoday_77d5e8b2-4420-45a1-bc50-d662a9effca3.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/usatoday_data/usatoday_a7cdb62a-4eab-419a-acdf-138ec2f12e99.json",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/example_data/good2go/usatoday_77d5e8b2-4420-45a1-bc50-d662a9effca3.json",
+		"/C/Users/AR_Magnavox/AppData/Local/Temp/Rar$DIa0.275/article_1.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Buzzfeed Political News Dataset/Real/103_Real.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Random Poltical News Dataset/Fake_titles/002.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Random Poltical News Dataset/Fake_titles/2.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Random Poltical News Dataset/Real/1003.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Random Poltical News Dataset/Real/120.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Random Poltical News Dataset/Satire/2015.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Buzzfeed Political News Dataset/Fake_titles/1_Fake.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Buzzfeed Political News Dataset/Fake/3_Fake.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/Public Data/Buzzfeed Political News Dataset/Fake/1_Fake.txt",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/fakenewsdata1-master/README.txt",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/example_code/signalmedia.py",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/signalmedia_data/signalmedia_2cb15534-2494-4b52-b475-a52446279c5c.json",
+		"/C/Users/AR_Magnavox/Dropbox/arjoon_jsons/RTG Files/signalmedia_data/signalmedia_936616b1-b187-40e2-ac79-6cd5d427acee.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/signalmedia_data/signalmedia_936616b1-b187-40e2-ac79-6cd5d427acee.json",
+		"/C/Users/AR_Magnavox/Documents/RUDSSP FILES/clean_json.py",
+		"/C/Users/AR_Magnavox/Dropbox/RTG_summer_2017/example_data/data_feedback.txt",
+		"/D/RTG Files/buzzfeed_data/buzzfeed_05ebd1a0-deea-46b5-84e6-723e75867b0f.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/MinGW-w64.sublime-build",
+	"project": "scrape_dailyleak.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

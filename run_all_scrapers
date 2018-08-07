@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "Check Python Interpreter:"
+which python
+
+echo "Run USA Today Collector:"
+python usatoday.py
+
+echo "Run Buzzfeed Collector:"
+python buzzfeed.py
+
+echo ""
